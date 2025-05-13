@@ -12,7 +12,7 @@ on:
       MANIFEST_BRANCH:
         description: 'OrangeFox Manifest Branch'
         required: true
-        default: '11.0'
+        default: '12.1'
         type: choice
         options:
         - 12.1
